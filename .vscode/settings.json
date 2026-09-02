@@ -1,0 +1,6 @@
+{
+  "github.copilot.chat.codeGeneration.useInstructionFiles": true,
+  "chat.useAgentsMdFile": true,
+  "github.copilot.chat.agent.enabled": true,
+  "chat.mcp.enabled": true
+}
